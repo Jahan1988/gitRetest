@@ -1,4 +1,0 @@
-stepDefinitions\Initializer.class
-stepDefinitions\LoginStepDefinitions.class
-stepDefinitions\CanvasLoginPageStepDefinitions.class
-runner\TestRunner.class
